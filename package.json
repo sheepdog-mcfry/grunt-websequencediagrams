@@ -1,19 +1,19 @@
 {
-  "name": "grunt-websequencediagrams",
+  "name": "grunt-websequencediagrams-ws",
   "description": "Grunt plugin to allow UML sequence diagrams to be created, using WebSequenceDiagram.com.",
   "version": "0.3.2",
   "homepage": "https://github.com/markbirbeck/grunt-websequencediagrams",
   "author": {
-    "name": "Mark Birbeck",
-    "email": "mark.birbeck@gmail.com",
-    "url": "http://markbirbeck.com"
+    "name": "Waseem Akbar",
+    "email": "sheepdog.mcfry@gmail.com",
+    "url": ""
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/markbirbeck/grunt-websequencediagrams.git"
+    "url": "git://github.com/sheepdog-mcfry/grunt-websequencediagrams.git"
   },
   "bugs": {
-    "url": "https://github.com/markbirbeck/grunt-websequencediagrams/issues"
+    "url": "https://github.com/sheepdog-mcfry/grunt-websequencediagrams/issues"
   },
   "licenses": [
     {
@@ -29,7 +29,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "websequencediagrams": "git://github.com/Onegini/node-websequencediagrams.git#5ec3c43"
+    "websequencediagrams": "egit://github.com/Onegini/node-websequencediagrams.git#5ec3c43"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
